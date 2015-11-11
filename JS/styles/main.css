@@ -1,0 +1,13 @@
+.jumbotron {position: relative;
+		width: 800px;
+		height:400px;
+		text-align: center;
+		background-color: #efefef;
+		margin: 0 auto;
+		padding: 1em 0em;
+		border: 1px solid blue;
+		}
+
+body {font-family: "Avenir","Helvetica","Myriad Pro";}
+.h1 {font: 72px; font-weight: normal; color: green;}
+.lead {font: 20px #818181;}
